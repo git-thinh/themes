@@ -1,0 +1,196 @@
+﻿
+/*chrome*/
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+    border-radius: 0px;
+    -webkit-box-shadow: inset 0 0 0 #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #CCCCCC;
+    border-radius: 0px;
+    -webkit-box-shadow: inset 0 0 0 #CCCCCC;
+}
+/*-----------------------------------------------------------------------*/
+.w2ui-msg-title {
+    text-align: left !important;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.w2ui-popup .w2ui-toolbar[name*="_bottom_"] table.w2ui-button {
+    cursor: pointer;
+    border: 1px solid #B6B6B6 !important;
+    background-image: -webkit-linear-gradient(#fff 0,#e7e7e7 100%) !important;
+    background-image: -moz-linear-gradient(#fff 0,#e7e7e7 100%) !important;
+    background-image: -ms-linear-gradient(#fff 0,#e7e7e7 100%) !important;
+    background-image: -o-linear-gradient(#fff 0,#e7e7e7 100%) !important;
+    background-image: linear-gradient(#fff 0,#e7e7e7 100%) !important;
+    filter: progid:dximagetransform.microsoft.gradient(startColorstr='#ffe7e7e7', endColorstr='#ffffffff', GradientType=0) !important;
+}
+
+.w2ui-lock-msg { 
+    height: 99px !important;
+}
+/*-----------------------------------------------------------------------*/
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#page_main {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+.hide {
+    display: none;
+}
+
+.fs12 {
+    font-size: 12px;
+}
+
+.fs11 {
+    font-size: 11px;
+}
+
+#panel_left_bar {
+    background-color: #fafafa;
+    padding: 0px;
+    display: inline-block;
+    width: 100%;
+    height: 30px;
+}
+
+    #panel_left_bar .ib_toggle {
+        float: right;
+        color: #ccc;
+        padding: 4px 5px 0 0 !important;
+        cursor: pointer;
+    }
+
+        #panel_left_bar .ib_toggle:hover, .panel_left_bar_ib_toggle:hover {
+            color: orange;
+        }
+
+.panel_left_bar_ib_toggle {
+    position: fixed;
+    top: 30px;
+    left: -2px;
+    width: 23px;
+    height: 30px;
+    z-index: 9999;
+    padding-top: 6px;
+    color: #ccc;
+    cursor: pointer;
+}
+
+/*=====================*/
+.nav_item_notification {
+    margin: 0px !important;
+    padding: 0px 10px 0 0 !important;
+    width: 123px;
+    /*background-color: orange;*/
+    display: inline-block;
+    text-align: right;
+}
+
+    .nav_item_notification ul {
+        margin: 0px;
+        padding: 0px;
+        list-style: none;
+        display: inline-block;
+    }
+
+        .nav_item_notification ul li {
+            margin: 0px;
+            padding: 0px;
+            float: left;
+            list-style: none;
+            display: inline-block;
+            position: relative;
+            cursor: pointer;
+        }
+
+            .nav_item_notification ul li.mdi {
+                font-size: 21px;
+                position: relative;
+                width: 24px;
+                margin: 0 13px 0 0;
+                padding: 2px 0 0 0;
+                color: #666;
+            }
+
+                .nav_item_notification ul li.mdi > span {
+                    font-size: 10px;
+                    font-family: tahoma;
+                    background-color: #d15b47;
+                    color: #fff;
+                    padding: 0px 4px 1px;
+                    border-radius: 10px;
+                    position: absolute;
+                    top: 3px;
+                    z-index: 99;
+                    right: -9px;
+                }
+
+
+.nav_item_logo {
+    width: 34px;
+    height: 28px;
+    background-color: #f1f1f1;
+    color: #68BC31;
+    font-size: 63px !important;
+    text-align: center;
+    top: 0px !important;
+    position: absolute;
+    border-radius: 15px;
+    line-height: 25px !important;
+    left: 8px;
+    overflow: hidden;
+    border: 1px solid #aaa;
+}
+
+    .nav_item_logo img {
+        top: -2px;
+        position: absolute;
+        left: 0;
+    }
+
+.nav_item_logo_space {
+    display: inline-block;
+    width: 37px;
+    height: 27px;
+}
+
+.w2ui-node-count {
+    padding: 3px 7px 2px !important;
+}
+
+.w2ui-node-count, .w2ui-tb-count > span {
+    border: none !important;
+    background-color: #2091CF !important;
+    color: #fff !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    padding: 1px 4px !important;
+    height: 14px !important;
+    font-size: 10px !important;
+}
+
+div[name="layout_top_toolbar"] table.w2ui-button.checked {
+    border: 1px solid #f3f3f3 !important;
+}
+
+.w2ui-sidebar-div .jspVerticalBar {
+    left: 0;
+}
