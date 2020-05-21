@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\fetching",
+    "\\fetching-cors",
+    "\\json-cache",
+    "\\request-deferrer",
+    "\\request-deferrer\\lib",
+    "\\virtual-server",
+    "\\virtual-server\\lib"
+  ],
+  "SelectedNode": "\\virtual-server",
+  "PreviewInSolutionExplorer": false
+}
