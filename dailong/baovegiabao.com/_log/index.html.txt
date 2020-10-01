@@ -1,0 +1,57 @@
+index.html -> https://baovegiabao.com/
+
+text/html -> https://baovegiabao.com/:  | D:\test\download_themes\baovegiabao.com\_index.html
+text/css -> https://baovegiabao.com/themes/frontend/css/dropdown.css: dropdown.css | D:\test\download_themes\baovegiabao.com\themes\frontend\css\dropdown.css
+text/css -> https://baovegiabao.com/themes/frontend/css/owl.carousel.min.css: owl.carousel.min.css | D:\test\download_themes\baovegiabao.com\themes\frontend\css\owl.carousel.min.css
+text/css -> https://baovegiabao.com/themes/frontend/css/bootstrap.min.css: bootstrap.min.css | D:\test\download_themes\baovegiabao.com\themes\frontend\css\bootstrap.min.css
+text/css -> https://baovegiabao.com/themes/frontend/css/font-awesome.min.css: font-awesome.min.css | D:\test\download_themes\baovegiabao.com\themes\frontend\css\font-awesome.min.css
+text/css -> https://baovegiabao.com/themes/frontend/css/global.css: global.css | D:\test\download_themes\baovegiabao.com\themes\frontend\css\global.css
+text/css -> https://baovegiabao.com/themes/frontend/rs-plugin/css/settings.css: settings.css | D:\test\download_themes\baovegiabao.com\themes\frontend\rs-plugin\css\settings.css
+image/png -> https://baovegiabao.com/themes/frontend/images/iphone.png: iphone.png | D:\test\download_themes\baovegiabao.com\themes\frontend\images\iphone.png
+image/png -> https://baovegiabao.com/themes/frontend/images/logo.png: logo.png | D:\test\download_themes\baovegiabao.com\themes\frontend\images\logo.png
+application/javascript -> https://baovegiabao.com/themes/frontend/js/jquery-1.11.3.min.js: jquery-1.11.3.min.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\jquery-1.11.3.min.js
+text/css -> https://baovegiabao.com/themes/frontend/css/style.css: style.css | D:\test\download_themes\baovegiabao.com\themes\frontend\css\style.css
+text/css -> https://baovegiabao.com/themes/frontend/css/responsive.css: responsive.css | D:\test\download_themes\baovegiabao.com\themes\frontend\css\responsive.css
+application/javascript -> https://baovegiabao.com/themes/frontend/js/owl.carousel.js: owl.carousel.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\owl.carousel.js
+application/javascript -> https://baovegiabao.com/themes/frontend/js/less.js: less.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\less.js
+text/css -> https://fonts.googleapis.com/css?family=Open+Sans:400,700: css | D:\test\download_themes\fonts.googleapis.com\css.css
+ -> https://baovegiabao.com/themes/frontend/fonts/roboto-regular-webfont.woff: roboto-regular-webfont.woff | D:\test\download_themes\baovegiabao.com\themes\frontend\fonts\roboto-regular-webfont.woff
+ -> https://baovegiabao.com/themes/frontend/fonts/fontawesome-webfont.woff2?v=4.4.0: fontawesome-webfont.woff2 | D:\test\download_themes\baovegiabao.com\themes\frontend\fonts\fontawesome-webfont.woff2
+application/javascript -> https://baovegiabao.com/themes/frontend/js/jquery.selectbox-0.2.min.js: jquery.selectbox-0.2.min.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\jquery.selectbox-0.2.min.js
+image/jpeg -> https://static.baovegiabao.com/assets/uploads/bao-ve-muc-tieu-co-dinh-2535558b79e96afc8e-thumb.jpg: bao-ve-muc-tieu-co-dinh-2535558b79e96afc8e-thumb.jpg | D:\test\download_themes\static.baovegiabao.com\assets\uploads\bao-ve-muc-tieu-co-dinh-2535558b79e96afc8e-thumb.jpg
+image/jpeg -> https://static.baovegiabao.com/assets/uploads/bao-ve-ngan-hang-644858b78956c692e-thumb.jpg: bao-ve-ngan-hang-644858b78956c692e-thumb.jpg | D:\test\download_themes\static.baovegiabao.com\assets\uploads\bao-ve-ngan-hang-644858b78956c692e-thumb.jpg
+image/jpeg -> https://static.baovegiabao.com/assets/uploads/bao-ve-muc-tieu-di-dong-1380058b79f8fad538-thumb.jpg: bao-ve-muc-tieu-di-dong-1380058b79f8fad538-thumb.jpg | D:\test\download_themes\static.baovegiabao.com\assets\uploads\bao-ve-muc-tieu-di-dong-1380058b79f8fad538-thumb.jpg
+text/html -> https://static.baovegiabao.com/:  | D:\test\download_themes\static.baovegiabao.com\_index.html
+image/jpeg -> https://baovegiabao.com/themes/frontend/images/customers/cong-ty-co-phan-sx-tm-xnk-vien-thong-a.jpg: cong-ty-co-phan-sx-tm-xnk-vien-thong-a.jpg | D:\test\download_themes\baovegiabao.com\themes\frontend\images\customers\cong-ty-co-phan-sx-tm-xnk-vien-thong-a.jpg
+image/jpeg -> https://baovegiabao.com/themes/frontend/images/customers/cong-ty-tnhh-dv-tm-dau-tu-thien-chau.jpg: cong-ty-tnhh-dv-tm-dau-tu-thien-chau.jpg | D:\test\download_themes\baovegiabao.com\themes\frontend\images\customers\cong-ty-tnhh-dv-tm-dau-tu-thien-chau.jpg
+image/jpeg -> https://static.baovegiabao.com/assets/uploads/trien-khai-luc-luong-bao-ve-tai-chung-cu-the-harmona-13935465159658450a24fa-thumb.jpg: trien-khai-luc-luong-bao-ve-tai-chung-cu-the-harmona-13935465159658450a24fa-thumb.jpg | D:\test\download_themes\static.baovegiabao.com\assets\uploads\trien-khai-luc-luong-bao-ve-tai-chung-cu-the-harmona-13935465159658450a24fa-thumb.jpg
+image/jpeg -> https://static.baovegiabao.com/assets/uploads/bang-gia-dich-vu-bao-ve-voi-chi-phi-hop-ly-nhat-52958b792061e79b-thumb.jpg: bang-gia-dich-vu-bao-ve-voi-chi-phi-hop-ly-nhat-52958b792061e79b-thumb.jpg | D:\test\download_themes\static.baovegiabao.com\assets\uploads\bang-gia-dich-vu-bao-ve-voi-chi-phi-hop-ly-nhat-52958b792061e79b-thumb.jpg
+image/jpeg -> https://static.baovegiabao.com/assets/uploads/bao-ve-su-kien-2982958b79d866abe6-thumb.jpg: bao-ve-su-kien-2982958b79d866abe6-thumb.jpg | D:\test\download_themes\static.baovegiabao.com\assets\uploads\bao-ve-su-kien-2982958b79d866abe6-thumb.jpg
+image/jpeg -> https://static.baovegiabao.com/assets/uploads/bao-ve-co-quan-1452587ef02f549e4-thumb.jpg: bao-ve-co-quan-1452587ef02f549e4-thumb.jpg | D:\test\download_themes\static.baovegiabao.com\assets\uploads\bao-ve-co-quan-1452587ef02f549e4-thumb.jpg
+image/jpeg -> https://static.baovegiabao.com/assets/uploads/danh-sach-cong-ty-dich-vu-bao-ve-uy-tin-hien-nay-3097458b53d0fcd4b0-thumb.jpg: danh-sach-cong-ty-dich-vu-bao-ve-uy-tin-hien-nay-3097458b53d0fcd4b0-thumb.jpg | D:\test\download_themes\static.baovegiabao.com\assets\uploads\danh-sach-cong-ty-dich-vu-bao-ve-uy-tin-hien-nay-3097458b53d0fcd4b0-thumb.jpg
+image/jpeg -> https://baovegiabao.com/themes/frontend/images/customers/ngan-hang-dau-tu-va-phat-trien-viet-nam.jpg: ngan-hang-dau-tu-va-phat-trien-viet-nam.jpg | D:\test\download_themes\baovegiabao.com\themes\frontend\images\customers\ngan-hang-dau-tu-va-phat-trien-viet-nam.jpg
+image/jpeg -> https://static.baovegiabao.com/assets/uploads/lam-the-nao-danh-gia-duoc-cong-ty-dich-vu-bao-ve-2229158b5043c91502-thumb.jpg: lam-the-nao-danh-gia-duoc-cong-ty-dich-vu-bao-ve-2229158b5043c91502-thumb.jpg | D:\test\download_themes\static.baovegiabao.com\assets\uploads\lam-the-nao-danh-gia-duoc-cong-ty-dich-vu-bao-ve-2229158b5043c91502-thumb.jpg
+image/jpeg -> https://static.baovegiabao.com/assets/uploads/nhung-tieu-chi-de-lua-chon-cong-ty-bao-ve-tot-nhat-340858b50ca78086c-thumb.jpg: nhung-tieu-chi-de-lua-chon-cong-ty-bao-ve-tot-nhat-340858b50ca78086c-thumb.jpg | D:\test\download_themes\static.baovegiabao.com\assets\uploads\nhung-tieu-chi-de-lua-chon-cong-ty-bao-ve-tot-nhat-340858b50ca78086c-thumb.jpg
+image/jpeg -> https://baovegiabao.com/themes/frontend/images/customers/ngan-hang-tmcp-sai-gon.jpg: ngan-hang-tmcp-sai-gon.jpg | D:\test\download_themes\baovegiabao.com\themes\frontend\images\customers\ngan-hang-tmcp-sai-gon.jpg
+image/jpeg -> https://baovegiabao.com/themes/frontend/images/customers/so-tai-nguyen-va-moi-truong-thanh-pho-ho-chi-minh.jpg: so-tai-nguyen-va-moi-truong-thanh-pho-ho-chi-minh.jpg | D:\test\download_themes\baovegiabao.com\themes\frontend\images\customers\so-tai-nguyen-va-moi-truong-thanh-pho-ho-chi-minh.jpg
+image/jpeg -> https://baovegiabao.com/themes/frontend/images/customers/ngan-hang-nong-nghiep-va-phat-trien-nong-thon-viet-nam.jpg: ngan-hang-nong-nghiep-va-phat-trien-nong-thon-viet-nam.jpg | D:\test\download_themes\baovegiabao.com\themes\frontend\images\customers\ngan-hang-nong-nghiep-va-phat-trien-nong-thon-viet-nam.jpg
+application/javascript -> https://baovegiabao.com/themes/frontend/js/parallax.js: parallax.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\parallax.js
+application/javascript -> https://baovegiabao.com/themes/frontend/js/script.js: script.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\script.js
+application/javascript -> https://baovegiabao.com/themes/frontend/js/revolution.js: revolution.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\revolution.js
+application/javascript -> https://baovegiabao.com/themes/frontend/js/site.js: site.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\site.js
+application/javascript -> https://baovegiabao.com/themes/frontend/js/jquery.themepunch.tools.min.js: jquery.themepunch.tools.min.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\jquery.themepunch.tools.min.js
+application/javascript -> https://baovegiabao.com/themes/frontend/js/jquery.themepunch.revolution.min.js: jquery.themepunch.revolution.min.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\jquery.themepunch.revolution.min.js
+image/jpeg -> https://baovegiabao.com/themes/frontend/images/gioi-thieu-dich-vu-bao-ve-gia-bao.jpg: gioi-thieu-dich-vu-bao-ve-gia-bao.jpg | D:\test\download_themes\baovegiabao.com\themes\frontend\images\gioi-thieu-dich-vu-bao-ve-gia-bao.jpg
+text/javascript -> https://www.google-analytics.com/analytics.js: analytics.js | D:\test\download_themes\www.google-analytics.com\analytics.js
+image/jpeg -> https://baovegiabao.com/themes/frontend/images/footer-bg.jpg: footer-bg.jpg | D:\test\download_themes\baovegiabao.com\themes\frontend\images\footer-bg.jpg
+font/woff -> https://baovegiabao.com/themes/frontend/fonts/roboto-regular-webfont.woff: roboto-regular-webfont.woff | D:\test\download_themes\baovegiabao.com\themes\frontend\fonts\roboto-regular-webfont.woff
+font/woff2 -> https://baovegiabao.com/themes/frontend/fonts/fontawesome-webfont.woff2?v=4.4.0: fontawesome-webfont.woff2 | D:\test\download_themes\baovegiabao.com\themes\frontend\fonts\fontawesome-webfont.woff2
+image/gif -> https://baovegiabao.com/themes/frontend/rs-plugin/assets/loader.gif: loader.gif | D:\test\download_themes\baovegiabao.com\themes\frontend\rs-plugin\assets\loader.gif
+image/png -> https://baovegiabao.com/themes/frontend/rs-plugin/assets/timer.png: timer.png | D:\test\download_themes\baovegiabao.com\themes\frontend\rs-plugin\assets\timer.png
+image/jpeg -> https://baovegiabao.com/themes/frontend/images/dich-vu-bao-ve-chuyen-nghiep.jpg: dich-vu-bao-ve-chuyen-nghiep.jpg | D:\test\download_themes\baovegiabao.com\themes\frontend\images\dich-vu-bao-ve-chuyen-nghiep.jpg
+image/gif -> https://www.google-analytics.com/r/collect?v=1&_v=j83&a=1381598097&t=pageview&_s=1&dl=https%3A%2F%2Fbaovegiabao.com%2F&ul=en-us&de=UTF-8&dt=B%E1%BA%A3o%20v%E1%BB%87%20Gia%20B%E1%BA%A3o%20-%20D%E1%BB%8Bch%20v%E1%BB%A5%20b%E1%BA%A3o%20v%E1%BB%87%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%2C%20chuy%C3%AAn%20nghi%E1%BB%87p%20v%C3%A0%20uy%20t%C3%ADn&sd=0-bit&sr=1366x3500&vp=1349x3500&je=0&_u=IEBAAEAB~&jid=1721537291&gjid=424648795&cid=567115519.1594075374&tid=UA-97734967-1&_gid=998164836.1594075374&_r=1&z=1950493596: collect | D:\test\download_themes\www.google-analytics.com\r\collect.gif
+
+--------------------
+ERROR:
+
+[DONE]

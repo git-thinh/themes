@@ -1,0 +1,41 @@
+dang-ky-tu-van -> https://baovegiabao.com/dang-ky-tu-van
+
+text/css -> https://baovegiabao.com/themes/frontend/css/font-awesome.min.css: font-awesome.min.css | D:\test\download_themes\baovegiabao.com\themes\frontend\css\font-awesome.min.css
+text/css -> https://baovegiabao.com/themes/frontend/css/dropdown.css: dropdown.css | D:\test\download_themes\baovegiabao.com\themes\frontend\css\dropdown.css
+text/css -> https://baovegiabao.com/themes/frontend/css/bootstrap.min.css: bootstrap.min.css | D:\test\download_themes\baovegiabao.com\themes\frontend\css\bootstrap.min.css
+text/css -> https://baovegiabao.com/themes/frontend/css/owl.carousel.min.css: owl.carousel.min.css | D:\test\download_themes\baovegiabao.com\themes\frontend\css\owl.carousel.min.css
+text/css -> https://baovegiabao.com/themes/frontend/rs-plugin/css/settings.css: settings.css | D:\test\download_themes\baovegiabao.com\themes\frontend\rs-plugin\css\settings.css
+text/css -> https://baovegiabao.com/themes/frontend/css/jquery.fancybox.css: jquery.fancybox.css | D:\test\download_themes\baovegiabao.com\themes\frontend\css\jquery.fancybox.css
+text/css -> https://baovegiabao.com/themes/frontend/css/global.css: global.css | D:\test\download_themes\baovegiabao.com\themes\frontend\css\global.css
+text/css -> https://baovegiabao.com/themes/frontend/css/responsive.css: responsive.css | D:\test\download_themes\baovegiabao.com\themes\frontend\css\responsive.css
+image/png -> https://baovegiabao.com/themes/frontend/images/logo.png: logo.png | D:\test\download_themes\baovegiabao.com\themes\frontend\images\logo.png
+image/png -> https://baovegiabao.com/themes/frontend/images/iphone.png: iphone.png | D:\test\download_themes\baovegiabao.com\themes\frontend\images\iphone.png
+text/css -> https://fonts.googleapis.com/css?family=Open+Sans:400,700: css | D:\test\download_themes\fonts.googleapis.com\css.css
+text/css -> https://baovegiabao.com/themes/frontend/css/style.css: style.css | D:\test\download_themes\baovegiabao.com\themes\frontend\css\style.css
+font/woff -> https://baovegiabao.com/themes/frontend/fonts/roboto-regular-webfont.woff: roboto-regular-webfont.woff | D:\test\download_themes\baovegiabao.com\themes\frontend\fonts\roboto-regular-webfont.woff
+font/woff2 -> https://baovegiabao.com/themes/frontend/fonts/fontawesome-webfont.woff2?v=4.4.0: fontawesome-webfont.woff2 | D:\test\download_themes\baovegiabao.com\themes\frontend\fonts\fontawesome-webfont.woff2
+text/html -> https://baovegiabao.com/dang-ky-tu-van: dang-ky-tu-van | D:\test\download_themes\baovegiabao.com\dang-ky-tu-van.html
+text/javascript -> https://www.google-analytics.com/analytics.js: analytics.js | D:\test\download_themes\www.google-analytics.com\analytics.js
+application/javascript -> https://baovegiabao.com/themes/frontend/js/parallax.js: parallax.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\parallax.js
+application/javascript -> https://baovegiabao.com/themes/frontend/js/validate.min.js: validate.min.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\validate.min.js
+application/javascript -> https://baovegiabao.com/themes/frontend/js/script.js: script.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\script.js
+application/javascript -> https://baovegiabao.com/themes/frontend/js/owl.carousel.js: owl.carousel.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\owl.carousel.js
+application/javascript -> https://baovegiabao.com/themes/frontend/js/mixitup.js: mixitup.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\mixitup.js
+application/javascript -> https://baovegiabao.com/themes/frontend/js/site.js: site.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\site.js
+application/javascript -> https://baovegiabao.com/themes/frontend/js/jquery.fancybox.js: jquery.fancybox.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\jquery.fancybox.js
+application/javascript -> https://baovegiabao.com/themes/frontend/js/jquery-1.11.3.min.js: jquery-1.11.3.min.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\jquery-1.11.3.min.js
+application/javascript -> https://baovegiabao.com/themes/frontend/js/less.js: less.js | D:\test\download_themes\baovegiabao.com\themes\frontend\js\less.js
+image/jpeg -> https://baovegiabao.com/themes/frontend/images/footer-bg.jpg: footer-bg.jpg | D:\test\download_themes\baovegiabao.com\themes\frontend\images\footer-bg.jpg
+application/x-javascript -> https://connect.facebook.net/en_US/sdk.js: sdk.js | D:\test\download_themes\connect.facebook.net\en_US\sdk.js
+application/javascript -> https://platform.twitter.com/widgets.js: widgets.js | D:\test\download_themes\platform.twitter.com\widgets.js
+image/gif -> https://www.google-analytics.com/collect?v=1&_v=j83&a=1813974371&t=pageview&_s=1&dl=https%3A%2F%2Fbaovegiabao.com%2Fdang-ky-tu-van&ul=en-us&de=UTF-8&dt=%C4%90%C4%83ng%20k%C3%BD%20t%C6%B0%20v%E1%BA%A5n%20d%E1%BB%8Bch%20v%E1%BB%A5%20b%E1%BA%A3o%20v%E1%BB%87%20Gia%20B%E1%BA%A3o%20-%20B%E1%BA%A3o%20v%E1%BB%87%20Gia%20B%E1%BA%A3o&sd=0-bit&sr=1366x3500&vp=1366x3500&je=0&_u=AACAAEAB~&jid=&gjid=&cid=567115519.1594075374&tid=UA-97734967-1&_gid=998164836.1594075374&z=400274135: collect | D:\test\download_themes\www.google-analytics.com\collect.gif
+application/x-javascript -> https://connect.facebook.net/en_US/sdk.js?hash=827c330b5931aac58d271a058e306528&ua=modern_es6: sdk.js | D:\test\download_themes\connect.facebook.net\en_US\sdk.js
+text/html -> https://platform.twitter.com/widgets/widget_iframe.c4b33f07650267db9f8a72eaac551cac.html?origin=https%3A%2F%2Fbaovegiabao.com: widget_iframe.c4b33f07650267db9f8a72eaac551cac.html | D:\test\download_themes\platform.twitter.com\widgets\widget_iframe.c4b33f07650267db9f8a72eaac551cac.html
+application/json -> https://syndication.twitter.com/settings: settings | D:\test\download_themes\syndication.twitter.com\settings
+image/jpg -> https://baovegiabao.com/captcha.php: captcha.php | D:\test\download_themes\baovegiabao.com\captcha.php.jpg
+image/gif -> https://www.facebook.com/tr/?id=104125370058544&ev=fb_page_view&dl=https%3A%2F%2Fbaovegiabao.com%2Fdang-ky-tu-van&rl=&if=false&ts=1594075408270&sw=1366&sh=3500:  | D:\test\download_themes\www.facebook.com\tr\.gif
+
+--------------------
+ERROR:
+
+[DONE]
